@@ -6,5 +6,5 @@
 
 -------------------------------------------------------------------------
 
- [![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=deveremita)](https://github.com/deveremita/github-readme-stats)
+ [![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=deveremita&show_icons=true&theme=tokyonight&border_radius=50&ring_color=bf91f3&include_all_commits=true)](https://github.com/deveremita/github-readme-stats)
 
