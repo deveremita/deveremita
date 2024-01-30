@@ -2,7 +2,7 @@
 ### Me chamo Roberto e sou o cara por trás da página **Dev Eremita**
 
 - 👨‍💻 Hoje trabalho como QA para a Smiles/GOL, mas tenho uma profunda paixão por programação. Em geral, meu tempo livre em frente ao computador é dedicado a meus projetos e estudos.
-- 📚 Atualmente estuudo Python e automação.
+- 📚 Atualmente estudo Python e automação.
 
 -------------------------------------------------------------------------
 
