@@ -7,5 +7,7 @@
 -------------------------------------------------------------------------
 
  [![Roberto Santos GitHub stats](https://github-readme-stats.vercel.app/api?username=deveremita&show_icons=true&theme=tokyonight&border_radius=50&ring_color=bf91f3&include_all_commits=true)](https://github.com/deveremita/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveremita)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deveremita&layout=compact&theme=tokyonight&border_radius=50)
+
+
 
