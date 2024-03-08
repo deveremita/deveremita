@@ -2,7 +2,7 @@
 ### Me chamo Roberto 
 
 - 👨‍💻 Hoje trabalho como QA para a Smiles/GOL, mas tenho uma profunda paixão por programação. Em geral, meu tempo livre em frente ao computador é dedicado a meus projetos e estudos.
-- 📚 Atualmente estudo Python, automação, desenvolvimento web e estou cursando segurança da informação no programa [Hackers do bem](https://hackersdobem.org.br/) 
+- 📚 Atualmente estudo Python, automação, desenvolvimento web e estou cursando segurança da informação no programa **[Hackers do bem](https://hackersdobem.org.br/)** 
 
 -------------------------------------------------------------------------
 
