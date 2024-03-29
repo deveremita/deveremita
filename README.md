@@ -5,7 +5,7 @@
 - 📚 Atualmente estudo de forma avulsa Python, automação e desenvolvimento web. Também estou cursando segurança da informação no programa **[Hackers do bem](https://hackersdobem.org.br/)**
 - 📌 Como QA, estou na área desde 2021, e estou certificado no ISTQB (CTFL - Certified Tester Foundation Level)
 
-![CTFL](CTFL_logo1.png)     ![Programa: Hackers Do Bem](Nivelamento-semfundo.png)
+![CTFL](CTFL_logo1.png)
 
 -------------------------------------------------------------------------
 
