@@ -1,7 +1,7 @@
 # Como vai? Bem-vindo(a)! 👋
 ### Me chamo Roberto 
 
-- 👨‍💻 Trabalho como QA para a Smiles/GOL, e estudo, ou crio projetos sempre que tenho horas livres.
+- 👨‍💻 Trabalho como QA para a Smiles/GOL e, nos meus horários livres, estudo ou crio projetos.
 - 📚 Tenho conhecimentos e habilidades em Python, C, Java, automação, e desenvolvimento web (JS, HTML, CSS). 
 - 📌 Como QA, estou na área desde 2021, e estou certificado no ISTQB (CTFL - Certified Tester Foundation Level)
 
