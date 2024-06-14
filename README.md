@@ -2,7 +2,7 @@
 ### Me chamo Roberto 
 
 - 👨‍💻 Trabalho como QA para a Smiles/GOL e, nos meus horários livres, estudo ou crio projetos por hobby.
-- 📚 Tenho conhecimentos e habilidades em Python, C, Java, automação, e desenvolvimento web (JS, HTML, CSS). 
+- 📚 Tenho conhecimentos e habilidades em Python, C, Java, automação e desenvolvimento web (JS, HTML, CSS). Além disso, possuo algum conhecimento em Shellscript, Powershell e Batchscript.
 - 📌 Como QA, estou na área desde 2021, e estou certificado no ISTQB (CTFL - Certified Tester Foundation Level)
 
 ![CTFL](CTFL_logo1.png)
